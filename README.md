@@ -11,7 +11,7 @@ Swiggy order dataset (India-wide, with state-level filtering, Jan–Aug 2025)
 Excel (Pivot Tables, charts, dashboard design, region filter/slicer)
 
 ## Dashboard
-![Dashboard Screenshot]
+[View Dashboard (PDF)](dashboard/Swiggy_Dashboard_Gujarat.pdf)
 
 ## Key Metrics (Gujarat view shown)
 - **Total Orders:** 10,185
